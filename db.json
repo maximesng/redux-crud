@@ -1,0 +1,46 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apples",
+      "quantity": 5,
+      "price": 2,
+      "imageUrl": "https://www.sciencesetavenir.fr/assets/img/2021/11/09/cover-r4x3w1000-618a42a9127af-apples-g951bfc4b3-1920.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pineapple",
+      "quantity": 2,
+      "price": 5,
+      "imageUrl": "https://www.calculersonimc.fr/wp-content/uploads/2021/06/ananas-maigrir.jpg"
+    },
+    {
+      "name": "Raisin",
+      "quantity": 6,
+      "price": 3,
+      "imageUrl": "https://img.freepik.com/premium-vector/isolated-dark-grape-with-green-leaf_317810-1956.jpg?w=2000",
+      "id": 3
+    },
+    {
+      "name": "Bred",
+      "quantity": 1,
+      "price": 1,
+      "imageUrl": "https://cuisine.nessma.tv/uploads/7/2020-03/6d1ea7be938ceeb5f18b27c99e5a7d43.png",
+      "id": 4
+    },
+    {
+      "name": "Ham",
+      "quantity": 5,
+      "price": 3,
+      "imageUrl": "https://mapetiteassiette.com/wp-content/uploads/2021/03/AdobeStock_8233082-min-800x600.jpeg",
+      "id": 5
+    },
+    {
+      "name": "Butter",
+      "quantity": 2,
+      "price": 3,
+      "imageUrl": "https://img-3.journaldesfemmes.fr/wL8YsmuUZnKQprYtJFg0isTvxzY=/1500x/smart/432c5298182d45818c7a1b140e6b21f1/ccmcms-jdf/10662027.jpg",
+      "id": 6
+    }
+  ]
+}
